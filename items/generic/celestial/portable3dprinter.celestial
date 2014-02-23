@@ -1,0 +1,15 @@
+{
+  "itemName":"portable3dprinter",
+  "rarity":"Legendary",
+  "inventoryIcon":"portable3dprinter.png",
+  "image":"portable3dprinter.png",
+
+  "shortdescription":"\u651c\u5e36\u5f0f3D\u5370\u8868\u6a5f",
+  "description":"\u89e3\u9396\u53ef\u4ee5\u88fd\u4f5c\u5c0f\u578b\u9ad8\u79d1\u6280\u7522\u54c1\u7684\u80fd\u529b",
+
+  // Remember you can override this with parameters, no need for more than one
+  // unlock item
+  "sectorUnlock":"beta",
+  "tierRecipesUnlock":"portable3dprinter",
+  "unlockMessage":"\u4f60\u73fe\u5728\u53ef\u4ee5\u5728\u6c92\u5de5\u4f5c\u53f0\u7684\u72c0\u614b\u4e0b, \u88fd\u4f5c\u4e00\u4e9b\u5c0f\u578b\u9ad8\u79d1\u6280\u7522\u54c1"
+}
