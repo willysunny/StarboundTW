@@ -1,0 +1,19 @@
+{
+  "itemName":"electricbass",
+  "inventoryIcon":"electricbassguitaricon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u628a\u96fb\u8c9d\u65af\u3002\u4f86\u9ede\u7bc0\u594f\u5427\u3002",
+  "shortdescription":"\u96fb\u8c9d\u65af",
+  "largeImage":"electricbassguitar.png",
+  "image":"electricbassguitar.png",
+  "inspectionKind":"tool",
+  "activeImage":"electricbassguitar.png",
+  "activeAngle":-20,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"electricbass"
+}

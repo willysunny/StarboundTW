@@ -1,0 +1,19 @@
+{
+  "itemName":"koto",
+  "inventoryIcon":"kotoicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u53c8\u7a31\u70ba\u65e5\u672c\u7684\u53e4\u7b8f\u3002\u512a\u96c5\u7f8e\u9e97\u3002",
+  "shortdescription":"\u79d1\u591a\u7434",
+  "largeImage":"koto.png",
+  "image":"koto.png",
+  "inspectionKind":"tool",
+  "activeImage":"koto.png",
+  "activeAngle":-20,
+  "activeHandPosition" : [0.1, 0.5],
+
+  "handPosition" : [0.2, 0.5],
+  "twoHanded":true,
+  "kind":"koto"
+}

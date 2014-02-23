@@ -1,0 +1,19 @@
+{
+  "itemName":"oboe",
+  "inventoryIcon":"oboeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u96bb\u96d9\u7c27\u7ba1\u3002\u770b\u8d77\u4f86\u6709\u9ede\u820a\u3002",
+  "shortdescription":"\u96d9\u7c27\u7ba1",
+  "largeImage":"oboe.png",
+  "image":"oboe.png",
+  "inspectionKind":"tool",
+  "activeImage":"oboe.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.3, -0.2],
+
+  "handPosition" : [0.5, -0.1],
+  "twoHanded":true,
+  "kind":"oboe"
+}

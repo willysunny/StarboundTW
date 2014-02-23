@@ -1,0 +1,19 @@
+{
+  "itemName":"harmonica",
+  "inventoryIcon":"harmonicaicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"一隻口琴。頭髮斑白的宇宙船長們最愛。",
+  "shortdescription":"口琴",
+  "largeImage":"harmonica.png",
+  "image":"harmonica.png",
+  "inspectionKind":"tool",
+  "activeImage":"harmonica.png",
+  "activeAngle":15,
+  "activeHandPosition" : [-0.4, 0.25],
+
+  "handPosition" : [0, 0.1],
+  "twoHanded":true,
+  "kind":"harmonica"
+}

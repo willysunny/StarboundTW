@@ -1,0 +1,18 @@
+{
+  "itemName":"rockorgan",
+  "inventoryIcon":"keytarredicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u53f0\u6416\u6efe\u98a8\u7434\u3002 \u89c0\u773e\u64e0\u6eff\u6574\u500b\u6703\u5834\u3002",
+  "shortdescription":"\u6416\u6efe\u98a8\u7434",
+  "largeImage":"keytarred.png",
+  "image":"keytarred.png",
+  "inspectionKind":"tool",
+  "activeImage":"keytarred.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"rockorgan"
+}

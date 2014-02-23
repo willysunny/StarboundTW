@@ -1,0 +1,18 @@
+{
+  "itemName":"drumkit",
+  "inventoryIcon":"drum.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u5957\u7235\u58eb\u9f13\u3002\u6f14\u594f\u524d\u6700\u597d\u8b66\u544a\u4e00\u4e0b\u9130\u5c45\u3002",
+  "shortdescription":"\u7235\u58eb\u9f13",
+  "largeImage":"drum.png",
+  "image":"drum.png",
+  "inspectionKind":"tool",
+  "activeImage":"drum.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0, -0.1],
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"drumkit"
+}

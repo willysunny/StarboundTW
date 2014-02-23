@@ -1,0 +1,18 @@
+{
+  "itemName":"accordion",
+  "inventoryIcon":"accordionicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u53f0\u624b\u98a8\u7434\u3002 \u5feb\u52d5\u8d77\u4f60\u7684\u96d9\u624b\u5427!",
+  "shortdescription":"\u624b\u98a8\u7434",
+  "largeImage":"accordion.png",
+  "image":"accordion.png",
+  "inspectionKind":"tool",
+  "activeImage":"accordion.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.2, 0],
+  "handPosition" : [0.2, 0],
+  "twoHanded":true,
+  "kind":"accordion"
+}

@@ -1,0 +1,19 @@
+{
+  "itemName":"saxophone",
+  "inventoryIcon":"saxophoneicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u500b\u85a9\u514b\u65af\u98a8\u3002\u9069\u5408\u5728\u592a\u7a7a\u611f\u5230\u6182\u9b31\u7684\u6642\u5019\u6f14\u594f\u3002",
+  "shortdescription":"\u85a9\u514b\u65af\u98a8",
+  "largeImage":"saxophone.png",
+  "image":"saxophone.png",
+  "inspectionKind":"tool",
+  "activeImage":"saxophone.png",
+  "activeAngle":6,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"saxophone"
+}

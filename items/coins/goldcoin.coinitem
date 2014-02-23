@@ -6,7 +6,7 @@
   "description":"\u50cf\u7d20\u5df2\u7d93\u6210\u70ba\u5168\u5b87\u5b99\u6d41\u901a\u7684\u8ca8\u5e63, \u53ef\u7528\u65bc3D\u5217\u5370\u3002",
   "shortdescription":"\u50cf\u7d20",
   "value":1,
-  w"pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.wav", "/sfx/objects/coinstack_small2.wav", "/sfx/objects/coinstack_small3.wav" ],
+  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.wav", "/sfx/objects/coinstack_small2.wav", "/sfx/objects/coinstack_small3.wav" ],
   "pickupSoundsMedium":["/sfx/objects/coinstack_medium1.wav", "/sfx/objects/coinstack_medium2.wav" ],
   "pickupSoundsLarge":["/sfx/objects/coinstack_large.wav" ]
 }

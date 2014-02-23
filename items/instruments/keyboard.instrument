@@ -1,0 +1,18 @@
+{
+  "itemName":"keyboard",
+  "inventoryIcon":"keyboard.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4f86\u81ea\u5148\u9032\u6587\u660e\u7684\u6a5f\u68b0\u65cfM\u5f0f\u9375\u76e4\uff0c\u88dd\u8f09\u4e86\u5f48\u7c27\u6a5f\u68b0\u7d50\u69cb\u3002",
+  "shortdescription":"M\u5f0f\u9375\u76e4",
+  "largeImage":"keyboard.png",
+  "image":"keyboard.png",
+  "inspectionKind":"tool",
+  "activeImage":"keyboard.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0, -0.1],
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"keyboard"
+}

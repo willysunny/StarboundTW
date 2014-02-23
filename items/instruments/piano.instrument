@@ -1,0 +1,18 @@
+{
+  "itemName":"piano",
+  "inventoryIcon":"keytaricon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u53f0\u92fc\u7434\u3002\u8ca8\u771f\u50f9\u5be6\u7684\u9ad8\u5c1a\u6a02\u5668\u3002",
+  "shortdescription":"\u92fc\u7434",
+  "largeImage":"keytar.png",
+  "image":"keytar.png",
+  "inspectionKind":"tool",
+  "activeImage":"keytar.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"grandpiano"
+}

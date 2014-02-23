@@ -1,0 +1,18 @@
+{
+  "itemName" : "brightpiano",
+  "inventoryIcon" : "keytarorangeicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "\u4e00\u500b\u8072\u97f3\u97ff\u4eae\u7684\u92fc\u7434\u3002\u8d85\u9069\u5408\u7528\u4f86\u6f14\u594f\u5feb\u62cd\u7684\u97f3\u6a02!",
+  "shortdescription" : "\u4eae\u97f3\u92fc\u7434",
+  "largeImage" : "keytarorange.png",
+  "image" : "keytarorange.png",
+  "inspectionKind" : "tool",
+  "activeImage" : "keytarorange.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "brightpiano"
+}

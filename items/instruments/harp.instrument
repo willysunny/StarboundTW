@@ -1,0 +1,19 @@
+{
+  "itemName":"harp",
+  "inventoryIcon":"harpicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"一台豎琴。大膽且精緻。",
+  "shortdescription":"豎琴",
+  "largeImage":"harp.png",
+  "image":"harp.png",
+  "inspectionKind":"tool",
+  "activeImage":"harp.png",
+  "activeAngle":-20,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"harp"
+}

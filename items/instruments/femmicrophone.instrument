@@ -1,0 +1,19 @@
+{
+  "itemName":"femmicrophone",
+  "inventoryIcon":"microphone.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"一隻麥克風。給所有充滿熱情的歌姬們盡情演唱。",
+  "shortdescription":"麥克風（女聲）",
+  "largeImage":"microphone.png",
+  "image":"microphone.png",
+  "inspectionKind":"tool",
+  "activeImage":"microphone.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0, 0.275],
+
+  "handPosition" : [0, 0],
+  "twoHanded":false,
+  "kind":"femmicrophone"
+}

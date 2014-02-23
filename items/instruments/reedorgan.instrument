@@ -1,0 +1,18 @@
+{
+  "itemName":"reedorgan",
+  "inventoryIcon":"keytargreenicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u53f0\u7c27\u98a8\u7434\u3002\u5225\u641e\u7838\u4e86\u9019\u6b21\u7684\u8868\u6f14\u3002",
+  "shortdescription":"\u7c27\u98a8\u7434",
+  "largeImage":"keytargreen.png",
+  "image":"keytargreen.png",
+  "inspectionKind":"tool",
+  "activeImage":"keytargreen.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.5, 0],
+  "handPosition" : [0, 0],
+  "twoHanded":true,
+  "kind":"reedorgan"
+}

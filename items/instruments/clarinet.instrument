@@ -1,0 +1,19 @@
+{
+  "itemName":"clarinet",
+  "inventoryIcon":"clarineticon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack":1,
+  "rarity":"common",
+  "description":"\u4e00\u96bb\u8c4e\u7b1b\u3002 \u60f3\u8fa6\u6cd5\u5225\u53ea\u6703\u5431\u5431\u53eb\u3002",
+  "shortdescription":"\u8c4e\u7b1b",
+  "largeImage":"clarinet.png",
+  "image":"clarinet.png",
+  "inspectionKind":"tool",
+  "activeImage":"clarinet.png",
+  "activeAngle":0,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0.3, 0],
+  "twoHanded":true,
+  "kind":"clarinet"
+}
