@@ -1,0 +1,98 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "/interface/tooltips/header.png",
+    "fileBody" : "/interface/tooltips/bodyobject3.png",
+    "fileFooter" : "/interface/tooltips/footer.png"
+  },
+  "moneyIcon" : {
+    "type" : "image",
+    "position" : [98, 23],
+    "file" : "/interface/money.png"
+  },
+  "priceLabel" : {
+    "type" : "label",
+    "position" : [110, 23],
+    "hAnchor" : "left",
+    "value" : "0"
+  },
+  "dpsTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 68],
+    "hAnchor" : "left",
+    "value" : "DPS:"
+  },
+  "speedTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 59],
+    "hAnchor" : "left",
+    "value" : "\u5C04\u901F:"
+  },
+  "speedLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 59],
+    "hAnchor" : "right",
+    "width" : 126
+  },
+  "damagePerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 50],
+    "hAnchor" : "left",
+    "value" : "\u6BCF\u767C\u50B7\u5BB3:"
+  },
+  "damagePerShotLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 50],
+    "hAnchor" : "right",
+    "width" : 126
+  },
+  "energyPerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 41],
+    "hAnchor" : "left",
+    "value" : "\u6BCF\u767C\u80FD\u91CF\u6D88\u8017:"
+  },
+  "energyPerShotLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 41],
+    "hAnchor" : "right",
+    "width" : 126
+  },
+  "handednessLabel" : {
+    "type" : "wraplabel",
+    "position" : [90, 134],
+    "hAnchor" : "right",
+    "centered" : true,
+    "width" : 126
+  },
+  "dpsLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 68],
+    "hAnchor" : "right",
+    "centered" : true,
+    "width" : 126
+  },
+  "rarityLabel" : {
+    "type" : "wraplabel",
+    "position" : [7, 23],
+    "hAnchor" : "left",
+    "centered" : true,
+    "width" : 126
+  },
+  "damageKindImage" : {
+    "type" : "image",
+    "position" : [120, 90],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [16, 16],
+    "minSize" : [16, 16]
+  },
+  "objectImage" : {
+    "type" : "image",
+    "position" : [70, 105],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [40, 40],
+    "minSize" : [40, 40]
+  }
+}

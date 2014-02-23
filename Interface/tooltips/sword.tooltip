@@ -1,0 +1,86 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "/interface/tooltips/header.png",
+    "fileBody" : "/interface/tooltips/bodyobject2.png",
+    "fileFooter" : "/interface/tooltips/footer.png"
+  },
+  "moneyIcon" : {
+    "type" : "image",
+    "position" : [98, 23],
+    "file" : "/interface/money.png"
+  },
+  "priceLabel" : {
+    "type" : "label",
+    "position" : [110, 23],
+    "hAnchor" : "left",
+    "value" : "0"
+  },
+  "dpsTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 62],
+    "hAnchor" : "left",
+    "value" : "DPS:"
+  },
+  "speedTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 53],
+    "hAnchor" : "left",
+    "value" : "\u63EE\u64CA\u901F\u5EA6:"
+  },
+  "speedLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 53],
+    "hAnchor" : "right",
+    "width" : 126
+  },
+  "damagePerShotTitleLabel" : {
+    "type" : "label",
+    "position" : [9, 44],
+    "hAnchor" : "left",
+    "value" : "\u63EE\u64CA\u50B7\u5BB3:"
+  },
+  "damagePerShotLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 44],
+    "hAnchor" : "right",
+    "width" : 126
+  },
+  "handednessLabel" : {
+    "type" : "wraplabel",
+    "position" : [90, 128],
+    "hAnchor" : "right",
+    "centered" : true,
+    "width" : 126
+  },
+  "dpsLabel" : {
+    "type" : "wraplabel",
+    "position" : [130, 62],
+    "hAnchor" : "right",
+    "centered" : true,
+    "width" : 126
+  },
+  "rarityLabel" : {
+    "type" : "wraplabel",
+    "position" : [7, 23],
+    "hAnchor" : "left",
+    "centered" : true,
+    "width" : 126
+  },
+  "damageKindImage" : {
+    "type" : "image",
+    "position" : [120, 90],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [16, 16],
+    "minSize" : [16, 16]
+  },
+  "objectImage" : {
+    "type" : "image",
+    "position" : [70, 99],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [75, 45],
+    "minSize" : [65, 35]
+  }
+}
