@@ -1,0 +1,10 @@
+{
+ "itemName":"crystal",
+ "rarity":"Common",
+ "inventoryIcon":"crystal.png",
+ "description":"\u9583\u4eae\u7684\u6c34\u6676\u3002",
+ "shortdescription":"\u6c34\u6676",
+ "learnBlueprintsOnPickup":[
+  "crystalblock"
+ ]
+}
