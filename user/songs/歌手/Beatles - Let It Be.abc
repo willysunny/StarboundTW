@@ -1,0 +1,79 @@
+X:1
+T:Let It Be
+C:The Beatles
+N: Asphyx of Brandywine
+I: Lute, Harp
+Q:1/4=250
+M:4/4
+L:1/8
+K:C
+C,cGEC, GcEC, B, G, DE, F, G^F, G, DGB, G, CA, EA, |
+CA, A, EA, EA, CA, G, G, ECF, CF, F, DCA, F, |
+GC, CEC, CEGC, F, ^F, G, B, DGG, B, DGG, F, FA |
+F, AFF, EG DF CE GC, C, C, GC, G |
+Gc EC, Ac EGC, F, DG, GB, G, B, cD GdG, |
+eA, CEA, eeA, A, EC EG, A, CdG, dF, F, A, CE cF, cCA, DC, |
+C, CEG eeC, Gf CEC, eF, eB, G, GDdG, B, GDeG, dd |
+A, F, CF cF, EE, GCD, DC FE CGC, C, GC EC, |
+EGcC, AEGcC, F, B, G, GDG, cGB, DdG, |
+A, A, CE eeA, eA, CEA, G, G, dC E dF, F, ECA, cF, cCA, DC, |
+C, eC EG eC, f EC GeC, F, eB, G, DG dG, B, DG edG, d |
+A, CF, FcF, E, CEG CD FD, C EC, GC, B, CE G dB, B, c|
+A, A, CA ea ECA, EACA, G, G, CEG eg CG, CGEG, d |
+F, F, FA, CFAcCF, A, FACGF, CC, CGEEGC, CEGC, |
+EC, CGEGCC, CEGFC, F, G, B, DGDGBG, B, DGEG, |
+F, CF cf AaF, E, EC cgG eCD, DF dcf CC, Gc e EgC, C, C, |
+EC, cGC, E AG cC, F, AG, B, GDG, cB, GD dG, |
+A, A, e CE eA, e CEA, dG, CEG, dA, F, A, CEF, ccF, A, DCC, |
+CC, Ge EC, e CG f E ge C, F, G, B, DG d G, B, DG e dG, G, d |
+CFF, A, cF, E, CEGD, CDFC, CEGC, CEGC, C, G, |
+C, EG cC, AE G cC, AF, G, B, D GG, B, DGcG, d |
+A, A, CE ee A, eA, CEG, G, A, CE daF, F, A, CE eeC, dA, CDcC, |
+C, CEG eC, e CEG fe E, C, eG, B, DG dG, B, DG edG, d |
+F, A, C FcE, C EGD, C DFC, C EGC, C, CE GDB, c |
+A, A, CEA EACA, C EAA, G, G, C EGD GBG, CE GG, E |
+F, F, A, CF CFA CF, A, CF AGF, C, C, CEG E GCC, CE GE, F, C, G, |
+C, C, CEG EG CC, E, CE GC, F, G, B, DG DG BG, G, B, DG EG, |
+F, F, CFA CFA F, E, CEG CE GD, CDF CD FC, CE GC EGC, C, G, B, d |
+A, A, CE AA, CEA eg A, C, aG, G, CE GG, g CEG g C, eG, d |
+F, F, A, CF cF, A, CF A GF, C, eC, CE GC, C, CE GE, F, C, G, |
+C, C, CEG eC, eeE, CE GfC, eF, G, B, DG ed G, B, DG ed G, d |
+F, F, CFA cF, E, CE GD, CD FC, CE GC, C, C, |
+F, FAE, EGD, DFC, CE_B, _B, _B, DA, A, A, C |
+G, G, D, G, B, F, F, C, F, A, C, C, C, E, G,8 |
+F, fa CE eg CG, D df CG, eg C, _B, Df_BF, A, fa CG, |
+G, G, dgb F, F, fa CC, eg C10 |
+C, EG ceg CC, EGcC, E, F, ^F, G, B, DG dgb G, B, DGG, A, A, CE cea |
+A, A, CE cea A, A, CEG, G, A, CEF, F, A, CE cfa F, DA, CF, G, |
+C, CEG eg CC, CE GE, C, F, ^F, G, B, DG dgb G, B, D GG, F, F, CFA cfa |
+F, F, CFA cfa F, F, E, CE GD, CD FC, CEG ceg C, C, G, A, C, E, |
+C, C, EG ceg CC, E, EG c C, F, G, B, DG dgb G, G, G, G, B, D G, G, |
+A, A, CE cea A, A, A, CEG, G, A, CEF, F, A, CE cfa F, C, A, CDC, C, |
+C, C, CEG eg CC, C, C, CE GE, C, G, B, DG dgb G, G, B, D GG, |
+F, A, CF cfa F, E, CE GD, CD FC, CEG ceg C, C, CEG dB, |
+A, A, CEA c A, CEA eg A, aG, G, CEG ce G, g CEG gG, d |
+F, F, A, CF cAe F, dc A, CFGF, C, CEG c C, C, CE GC, |
+C, C, CEG ec C, eeCEG fC, eF, G, B, DG e BdG, G, B, DG e G, |
+F, F, CFA c F, E, CE GCD, CD FC, CE GC, C, C, |
+C, EG c C, AEG c C, F, G, B, DG BG, B, DG cG, d |
+A, A, CE e A ce A, e A, CE d G, G, A, CE d F, F, A, CEA cf F, d A, CDC, G, |
+C, C, CEG ce C, CEG fg E, C, F, G, B, DGB dG, B, DG eG, G, |
+F, F, A, CF fAc F, E, CEG e D, CDF dC, CEG ce C, C, CE GG, C, |
+C, EG ce C, EGA c C, F, G, B, DGB d G, cB, DGG, |
+A, A, CEA ce A, A, CEG, G, A, CE gF, F, A, CEA cfdd C, A, CDC, |
+C, CEG ce C, CEG fE, C, G, B, DGB dG, B, DG e G, |
+F, A, CFA c E, CE GD, CDF CC, CEG c C, C, e CEG dB, |
+A, A, CEA ea CA, CEA g A, G, G, CEG dgb G, CE GG, e |
+F, F, A, CF c fa CF, A, CF AGF, C, C, CEG eg CC, CEGE, F, C, G, |
+C, C, CEG eg CC, E, CEG fC, F, G, B, DG dgb G, G, B, DG e G, |
+F, F, CFA cfa F, E, CEG ceg CD, CDF cdfC, CEG ceg C, C, G, B, d |
+A, A, CE AA, CEA eg A, C, a G, G, CE GG, g CEG g C, eG, d |
+F, F, A, CF c F, A, CFA GF, C, eC, CE GC, C, CE GE, F, C, G, |
+C, C, CEG e C, eE, CEG f C, eF, eG, B, DG d G, B, DG ed G, d |
+F, CFA cE, CEG CD, CD FC, CE GC, C, e CEG dB, c |
+A, A, CE AA, C, CEA eg A, a G, G, CE GG, C, g CEG ge G, d |
+F, F, A, CF c F, dc C, A, CFA GF, e C, CE GC, CE GG, A, C, |
+C, C, CEG e C, ee E, CEG f C, gF, eG, B, DGG, dB, B, DG e d D, G, d |
+F, F, CFA c F, CE, CE GD, CD FC, CE GC, C, C,2 |
+F, F AE, E GD, D FC, CE_B, _B, _B, D A, A, A, C |
+G, G, D, G, B, F, F, C, F, A, C, C, E, G,10 |
