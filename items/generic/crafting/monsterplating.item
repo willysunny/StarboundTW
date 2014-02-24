@@ -1,0 +1,10 @@
+{
+  "itemName":"monsterplating",
+  "rarity":"Common",
+  "inventoryIcon":"monsterplating.png",
+  "description":"\u786c\u5316\u7684\u602a\u7378\u7532\u6bbc\u3002",
+  "shortdescription":"\u602a\u7378\u7532\u6bbc",
+  "learnBlueprintsOnPickup":[
+    "t2helm1", "t2helm2"
+]
+}
