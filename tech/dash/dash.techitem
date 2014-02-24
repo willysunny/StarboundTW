@@ -1,0 +1,10 @@
+{
+  "itemName" : "dashTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/dash.png",
+  "description" : "\u6309\u5169\u4e0b\u5de6\u6216\u53f3\u4f86\u4f7f\u7528\u6b64\u6280\u80fd\u3002\u53ef\u4ee5\u5728\u7a7a\u4e2d\u4f7f\u7528\u3002",
+  "shortdescription" : "\u80fd\u91cf\u885d\u523a",
+  "inspectionKind" : "tech",
+
+  "techModule" : "dash.tech"
+}

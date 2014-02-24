@@ -1,0 +1,10 @@
+{
+  "itemName" : "glitchMechTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/glitchmech.png",
+  "description" : "\u6309\u4e0b'F'\u4f86\u53ec\u559a\u4e00\u53f0\u6a5f\u5668\u4eba\u3002\u7136\u5f8c\u958b\u59cb\u6467\u6bc0\u6771\u897f\u5427!",
+  "shortdescription" : "\u6a5f\u68b0\u65cf\u88dd\u7532\u6a5f\u5668\u4eba",
+  "inspectionKind" : "tech",
+
+  "techModule" : "glitchmech.tech"
+}
