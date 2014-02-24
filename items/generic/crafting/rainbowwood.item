@@ -1,10 +1,10 @@
 {
- "itemName":"rainbowwood",
- "rarity":"Common",
- "inventoryIcon":"rainbowwood.png",
- "description":"\u5f69\u8679\u6728\u6728\u982d\u3002",
- "shortdescription":"\u5f69\u8679\u6728\u982d",
- "learnBlueprintsOnPickup":[
+  "itemName":"rainbowwood",
+  "rarity":"Common",
+  "inventoryIcon":"rainbowwood.png",
+  "description":"\u5f69\u8679\u6728\u6728\u982d\u3002\u4e94\u984f\u516d\u8272\u7684\u3002",
+  "shortdescription":"\u5f69\u8679\u6728\u982d",
+  "learnBlueprintsOnPickup":[
   "rainbowwoodblock"
- ]
+]
 }

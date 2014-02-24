@@ -1,7 +1,7 @@
 {
- "itemName":"imperviumbar",
- "rarity":"Rare",
- "inventoryIcon":"imperviumbar.png",
- "description":"\u9019\u662f\u4e00\u500bImpervium \u7887\u3002\uff08T10\uff09",
- "shortdescription":"Impervium \u7887"
+  "itemName":"imperviumbar",
+  "rarity":"Rare",
+  "inventoryIcon":"imperviumbar.png",
+  "description":"\u9019\u662f\u4e00\u500b Impervium \u7887(Tier10)\u3002",
+  "shortdescription":"Impervium \u7887"
 }

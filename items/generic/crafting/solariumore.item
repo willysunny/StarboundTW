@@ -1,8 +1,8 @@
 {
- "itemName":"solariumore",
- "rarity":"Rare",
- "inventoryIcon":"solariumore.png",
- "description":"\u9019\u662f\u4e00\u500b\u967d\u8000\u77f3\u7926\u3002 \u662f\u4e00\u7a2e\u5922\u5e7b\u7684\u71c3\u6599\u3002\uff08+8\uff09",
- "shortdescription":"\u967d\u8000\u77f3\u7926",
- "fuelAmount":8
+  "itemName":"solariumore",
+  "rarity":"Rare",
+  "inventoryIcon":"solariumore.png",
+  "description":"\u9019\u662f\u4e00\u500b Solarium \u7926\u3002\u662f\u4e00\u7a2e\u5922\u5e7b\u7684\u71c3\u6599\u3002(\u71c3\u6599+8)",
+  "shortdescription":"Solarium \u7926",
+  "fuelAmount":8
 }
