@@ -1,0 +1,157 @@
+{
+  "config" : {
+    "fuelMax" : 1000
+  },
+
+  "blockKey" : [
+    {
+      "value" : [255, 255, 255, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : false
+    },
+
+    {
+      "value" : [0, 0, 255, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true
+    },
+
+    {
+      "value" : [255, 0, 0, 255],
+      "foregroundBlock" : true,
+      "backgroundBlock" : true
+    },
+
+    {
+      "value" : [0, 255, 0, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "apexshiplocker",
+      "objectParameters" : {
+        "treasurePools" : [ "humanStarterTreasure" ],
+        "level" : 1,
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [142, 255, 142, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "techstation",
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [255, 87, 81, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "apexfuelhatch",
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [255, 255, 0, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "hylotllantern1"
+    },
+
+    {
+      "value" : [255, 102, 0, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "apexshipdoor"
+    },
+
+    {
+      "value" : [156, 0, 255, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "teleporter",
+      "flags" : [ "playerSpawn" ],
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [167, 167, 255, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : false,
+      "object" : "boosterflame",
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [168, 168, 168, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : false,
+      "object" : "smallboosterflame",
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [0, 255, 255, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood",
+      "object" : "apexcaptainschair",
+      "objectDirection" : "left",
+      "objectParameters" : {
+        "unbreakable" : false
+      }
+    },
+
+    {
+      "value" : [255, 255, 144],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "darkwood"
+    },
+
+    {
+      "value" : [255, 117, 144],
+      "foregroundBlock" : true,
+      "backgroundBlock" : false,
+      "foregroundMat" : "darkwood"
+    },
+
+    {
+      "value" : [210, 33, 210],
+      "foregroundBlock" : true,
+      "backgroundBlock" : false,
+      "foregroundMat" : "ornatewood"
+    },
+
+    {
+      "value" : [169, 59, 81],
+      "foregroundBlock" : true,
+      "backgroundBlock" : false,
+      "foregroundMat" : "glass"
+    },
+
+    {
+      "value" : [255, 117, 255],
+      "foregroundBlock" : false,
+      "backgroundBlock" : true,
+      "backgroundMat" : "ornatewood"
+    }
+  ],
+
+  "blockImage" : "dropshipblocks.png"
+}
