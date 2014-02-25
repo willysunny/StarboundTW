@@ -1,0 +1,10 @@
+{
+  "itemName" : "jetpackTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/gravityball.png",
+  "description" : "\u5728\u534a\u7a7a\u4e2d\u6309\u4e0b\u8df3\u4f86\u4f7f\u7528\u6b64\u6280\u80fd\u3002",
+  "shortdescription" : "\u91cd\u529b\u6ce1\u6ce1",
+  "inspectionKind" : "tech",
+
+  "techModule" : "jetpack.tech"
+}

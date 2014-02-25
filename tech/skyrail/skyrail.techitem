@@ -1,0 +1,10 @@
+{
+  "itemName" : "skyrailTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/doublejump.png",
+  "description" : "\u89e3\u9396\u642d\u4e58\u5929\u7a7a\u7e9c\u8eca\u7684\u80fd\u529b!",
+  "shortdescription" : "\u5929\u7a7a\u7e9c\u8eca",
+  "inspectionKind" : "tech",
+
+  "techModule" : "skyrail.tech"
+}

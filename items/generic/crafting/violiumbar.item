@@ -1,7 +1,7 @@
 {
- "itemName":"Violiumbar",
- "rarity":"Uncommon",
- "inventoryIcon":"Violiumbar.png",
- "description":"Violium \u7887\u3002\uff08T8\uff09",
- "shortdescription":"Violium \u7887"
+  "itemName":"Violiumbar",
+  "rarity":"Uncommon",
+  "inventoryIcon":"Violiumbar.png",
+  "description":"Violium \u7887(Tier8)\u3002",
+  "shortdescription":"Violium \u7887"
 }

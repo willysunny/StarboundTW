@@ -1,7 +1,7 @@
 {
- "itemName":"titaniumore",
- "rarity":"Common",
- "inventoryIcon":"titaniumore.png",
- "description":"\u9019\u662f\u9226\u7926\u3002\uff08T3\uff09",
- "shortdescription":"\u9226\u7926"
+  "itemName":"titaniumore",
+  "rarity":"Common",
+  "inventoryIcon":"titaniumore.png",
+  "description":"\u9019\u662f\u9226\u7926(Tier3)\u3002",
+  "shortdescription":"\u9226\u7926"
 }

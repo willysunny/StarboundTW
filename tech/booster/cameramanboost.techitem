@@ -1,0 +1,10 @@
+{
+  "itemName" : "cameramanboost",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/bubbleboost.png",
+  "description" : "\u65bc\u8df3\u8d77\u5f8c\uff0c\u6309\u4e0b\u4e00\u500b\u65b9\u5411\u9375\u5f8c\u518d\u6309\u4f4f\u8df3\u4f86\u4f7f\u7528\u672c\u6280\u80fd\u3002\u770b\u6211\u90a3\u5e25\u6c23\u7684\u59ff\u52e2\u6a6b\u8de8\u5b87\u5b99!",
+  "shortdescription" : "\u660e\u661fPose!",
+  "inspectionKind" : "tech",
+
+  "techModule" : "cameramanboost.tech"
+}

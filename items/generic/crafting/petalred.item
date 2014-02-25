@@ -1,7 +1,7 @@
 {
- "itemName":"petalred",
- "rarity":"Uncommon",
- "inventoryIcon":"petalred.png",
- "description":"\u4e00\u500b\u7d05\u8272\u82b1\u74e3\uff0c\u53ef\u4ee5\u7528\u4f86\u88fd\u6210\u67d3\u6599\u3002",
- "shortdescription":"\u7d05\u8272\u82b1\u74e3"
+  "itemName":"petalred",
+  "rarity":"Uncommon",
+  "inventoryIcon":"petalred.png",
+  "description":"\u4e00\u500b\u7d05\u8272\u82b1\u74e3\uff0c\u53ef\u4ee5\u7528\u4f86\u88fd\u6210\u67d3\u6599\u3002",
+  "shortdescription":"\u7d05\u8272\u82b1\u74e3"
 }

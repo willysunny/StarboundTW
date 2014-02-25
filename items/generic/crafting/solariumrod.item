@@ -1,8 +1,8 @@
 {
- "itemName":"solariumrod",
- "rarity":"Rare",
- "inventoryIcon":"solariumrod.png",
- "description":"\u9019\u662f\u4e00\u500b\u967d\u8000\u77f3\u68d2\u3002\uff08+8\uff09",
- "shortdescription":"\u967d\u8000\u77f3\u68d2",
- "fuelAmount":8
+  "itemName":"solariumrod",
+  "rarity":"Rare",
+  "inventoryIcon":"solariumrod.png",
+  "description":"\u9019\u662f\u4e00\u6839 Solarium \u68d2\u3002(\u71c3\u6599+8)",
+  "shortdescription":"Solarium \u68d2",
+  "fuelAmount":8
 }

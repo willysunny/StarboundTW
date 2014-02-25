@@ -1,10 +1,10 @@
 {
- "itemName":"metallic",
- "rarity":"Common",
- "inventoryIcon":"metallic.png",
- "description":"\u4e00\u500b\u770b\u8d77\u4f86\u50cf\u662f\u91d1\u5c6c\u5916\u76ae\u7684\u6728\u982d\u3002",
- "shortdescription":"\u91d1\u5c6c\u76ae\u6728",
- "learnBlueprintsOnPickup":[
-  "platematerial"
- ]
+  "itemName":"metallic",
+  "rarity":"Common",
+  "inventoryIcon":"metallic.png",
+  "description":"\u4e00\u500b\u770b\u8d77\u4f86\u50cf\u662f\u91d1\u5c6c\u5916\u76ae\u7684\u6728\u982d\u3002",
+  "shortdescription":"\u91d1\u5c6c\u6728",
+  "learnBlueprintsOnPickup":[
+    "platematerial"
+  ]
 }
