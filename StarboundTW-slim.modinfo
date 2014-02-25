@@ -1,0 +1,11 @@
+{
+  "name" : "StarboundTW-slim",
+  "version" : "Beta v. Enraged Koala",
+  "path" : ".",
+  "dependencies" : [  ],
+  "metadata" : {
+    "author" : "Willy_Sunny",
+    "description" : Pure "Starbound Chinese Translation",
+    "version" : "0.2s"
+  }
+}
