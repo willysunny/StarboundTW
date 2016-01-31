@@ -72,7 +72,7 @@
   "audio" : [
     {
       "timecode" : 0,
-      "resource" : "/sfx/cinematics/man_laugh.ogg"
+      "resource" : "/sfx/cinematics/fish_laugh.ogg"
     }
   ]
 }

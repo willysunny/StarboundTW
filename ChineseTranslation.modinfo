@@ -1,0 +1,10 @@
+{
+  "name" : "sb_cht",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Willy_Sunny",
+    "version" : "V1.0",
+    "description" : "Starbound Traditional Chinese Translation"
+  }
+}

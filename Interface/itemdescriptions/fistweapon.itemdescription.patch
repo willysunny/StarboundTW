@@ -1,0 +1,4 @@
+[ 
+  { "op" : "replace", "path" : "/speedTitleLabel/value", "value" : "\u63EE\u64CA\u901F\u5EA6:" },
+  { "op" : "replace", "path" : "/damagePerShotTitleLabel/value", "value" : "\u63EE\u64CA\u50B7\u5BB3:" }
+]
