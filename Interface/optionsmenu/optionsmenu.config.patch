@@ -1,15 +1,15 @@
-[ 
-  { "op" : "replace", "path" : "/paneLayout/volumeLabel/value", "value" : "\u97F3\u91CF\u63A7\u5236" },
-  { "op" : "replace", "path" : "/paneLayout/sfxLabel/value", "value" : "\u97F3\u6548" },
-  { "op" : "replace", "path" : "/paneLayout/sfxValueLabel/value", "value" : "\u97F3\u6548" },
-  { "op" : "replace", "path" : "/paneLayout/musicLabel/value", "value" : "\u97F3\u6A02" },
-  { "op" : "replace", "path" : "/paneLayout/musicValueLabel/value", "value" : "\u97F3\u6A02" },
-  { "op" : "replace", "path" : "/paneLayout/resLabel/value", "value" : "\u5168\u87A2\u5E55\u89E3\u6790\u5EA6" },
-  { "op" : "replace", "path" : "/paneLayout/resValueLabel/value", "value" : "\u5168\u87A2\u5E55\u89E3\u6790\u5EA6" },
-  { "op" : "replace", "path" : "/paneLayout/zoomLabel/value", "value" : "\u7E2E\u653E\u7B49\u7D1A" },
-  { "op" : "replace", "path" : "/paneLayout/zoomValueLabel/value", "value" : "\u7E2E\u653E\u7B49\u7D1A" },
-  { "op" : "replace", "path" : "/paneLayout/speechBubbleLabel/value", "value" : "\u986F\u793A\u5C0D\u8A71\u6C23\u6CE1\u6846" },
-  { "op" : "replace", "path" : "/paneLayout/fullscreenLabel/value", "value" : "\u5168\u87A2\u5E55" },
-  { "op" : "replace", "path" : "/paneLayout/backButton/caption", "value" : "\u8fd4\u56de" },
-  { "op" : "replace", "path" : "/paneLayout/acceptButton/value", "value" : "\u63a5\u53d7" }
-]
+[
+{"op":"replace","path":"/paneLayout/volumeLabel/value","value":"音量控制"},
+{"op":"replace","path":"/paneLayout/sfxLabel/value","value":"音效"},
+{"op":"replace","path":"/paneLayout/sfxValueLabel/value","value":"標籤"},
+{"op":"replace","path":"/paneLayout/musicLabel/value","value":"音樂"},
+{"op":"replace","path":"/paneLayout/musicValueLabel/value","value":"標籤"},
+{"op":"replace","path":"/paneLayout/resLabel/value","value":"全螢幕解析度"},
+{"op":"replace","path":"/paneLayout/resValueLabel/value","value":"標籤"},
+{"op":"replace","path":"/paneLayout/zoomLabel/value","value":"縮放等級"},
+{"op":"replace","path":"/paneLayout/zoomValueLabel/value","value":"標籤"},
+{"op":"replace","path":"/paneLayout/speechBubbleLabel/value","value":"顯示對話氣泡框"},
+{"op":"replace","path":"/paneLayout/fullscreenLabel/value","value":"全螢幕"},
+{"op":"replace","path":"/paneLayout/backButton/caption","value":"取消"},
+{"op":"replace","path":"/paneLayout/acceptButton/caption","value":"確定"},
+{"op":"replace","path":"/paneLayout/showKeybindings/caption","value":"操作按鍵"}]

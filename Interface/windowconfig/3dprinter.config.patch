@@ -1,0 +1,10 @@
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "3D印表機" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "掃描並列印物品" },
+  { "op" : "replace", "path" : "/paneLayout/lblSchematics/value","value":"合成配方"},
+  { "op" : "replace", "path" : "/paneLayout/lblProducttitle/value","value":"物品"},
+  { "op" : "replace", "path" : "/paneLayout/btnCraft/caption","value":"製作"},
+  { "op" : "replace", "path" : "/paneLayout/lblProduct/value","value":"能製作"},
+  { "op" : "replace", "path" : "/paneLayout/scanButton/caption","value":"掃描"},
+  { "op" : "replace", "path" : "/paneLayout/filter/hint","value":"搜尋"}
+]

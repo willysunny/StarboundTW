@@ -1,4 +1,4 @@
-[ 
-  { "op" : "replace", "path" : "/description", "value" : "\u88FD\u4F5C<item>\u7684\u85CD\u5716\u3002" },
-  { "op" : "replace", "path" : "/shortdescription", "value" : "<item>\u7684\u85CD\u5716" }
+﻿[ 
+  { "op" : "replace", "path" : "/description", "value" : "製作<item>的藍圖。" },
+  { "op" : "replace", "path" : "/shortdescription", "value" : "<item>的藍圖" }
 ]

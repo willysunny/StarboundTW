@@ -1,4 +1,4 @@
 ﻿[ 
   { "op" : "replace", "path" : "/dragDrop/value", "value" : "拖放道具至此" },
-  { "op" : "replace", "path" : "/count/value", "value" : "64 格" }
+  { "op" : "replace", "path" : "/count/value", "value" : "1 格" }
 ]

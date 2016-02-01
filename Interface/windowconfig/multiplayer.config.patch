@@ -1,0 +1,7 @@
+﻿[ 
+  { "op" : "replace", "path" : "/connect/caption", "value" : "登入伺服器" },
+  { "op" : "replace", "path" : "/address/hint", "value" : "伺服器位置" },
+  { "op" : "replace", "path" : "/port/hint", "value" : "埠號" },
+  { "op" : "replace", "path" : "/account/hint", "value" : "伺服器帳號" },
+  { "op" : "replace", "path" : "/password/hint", "value" : "伺服器密碼" }
+]

@@ -1,20 +1,20 @@
-
-  { "op" : "replace", "path" : "/1/up", "value" : "\u60a8\u5728\u958b\u73a9\u7b11\u55ce?" },
-  { "op" : "replace", "path" : "/1/down", "value" : "\u518d\u898b\u4e86\uff0c\u6b98\u9177\u7684\u4e16\u754c!" },
-  { "op" : "replace", "path" : "/5/up", "value" : "\u6211\u518d\u4e0d\u5403\u591a\u4e00\u9ede\u5c31\u6703\u6b7b\u3002" },
-  { "op" : "replace", "path" : "/5/down", "value" : "\u6211\u2026\u770b\u5230\u4e00\u67f1\u5149\u4e86\u2026" },
-  { "op" : "replace", "path" : "/10/up", "value" : "\u7d66\u6211\u66f4\u591a!" },
-  { "op" : "replace", "path" : "/10/down", "value" : "\u6211\u5feb\u6490\u4e0d\u4f4f\u4e86\u3002" },
-  { "op" : "replace", "path" : "/15/up", "value" : "\u5fc5\u9808\u8981\u627e\u5230\u66f4\u591a\u98df\u7269!" },
-  { "op" : "replace", "path" : "/15/down", "value" : "\u6211\u5feb\u4e0d\u884c\u4e86!" },
-  { "op" : "replace", "path" : "/25/up", "value" : "\u6211\u9084\u8981!" },
-  { "op" : "replace", "path" : "/25/down", "value" : "\u9913~~(\u809a\u5b50\u53eb)" },
-  { "op" : "replace", "path" : "/50/up", "value" : "\u6211\u9084\u662f\u5f88\u9913\u3002" },
-  { "op" : "replace", "path" : "/50/down", "value" : "\u958b\u59cb\u6703\u9913\u4e86\u3002" },
-  { "op" : "replace", "path" : "/75/up", "value" : "\u6709\u9ede\u98fd\u4e86\u3002" },
-  { "op" : "replace", "path" : "/75/down", "value" : "\u6709\u9ede\u9913\u4e86\u3002" },
-  { "op" : "replace", "path" : "/99/up", "value" : "\u55ef~\u6211\u5403\u98fd\u4e86\u3002" },
-  { "op" : "replace", "path" : "/99/down", "value" : "\u55ef~\u597d\u98fd\u597d\u98fd\u3002"
-  { "op" : "replace", "path" : "/100/up", "value" : "\u6490\u6b7b\u6211\u90fd\u4e0d\u4ecb\u610f!" },
-  { "op" : "replace", "path" : "/100/down", "value" : "\u55ef~\u597d\u98fd\u597d\u98fd\u3002" }
+﻿
+  { "op" : "replace", "path" : "/1/up", "value" : "您在開玩笑嗎?" },
+  { "op" : "replace", "path" : "/1/down", "value" : "再見了，殘酷的世界!" },
+  { "op" : "replace", "path" : "/5/up", "value" : "我再不吃多一點就會死。" },
+  { "op" : "replace", "path" : "/5/down", "value" : "我…看到一柱光了…" },
+  { "op" : "replace", "path" : "/10/up", "value" : "給我更多!" },
+  { "op" : "replace", "path" : "/10/down", "value" : "我快撐不住了。" },
+  { "op" : "replace", "path" : "/15/up", "value" : "必須要找到更多食物!" },
+  { "op" : "replace", "path" : "/15/down", "value" : "我快不行了!" },
+  { "op" : "replace", "path" : "/25/up", "value" : "我還要!" },
+  { "op" : "replace", "path" : "/25/down", "value" : "餓~~(肚子叫)" },
+  { "op" : "replace", "path" : "/50/up", "value" : "我還是很餓。" },
+  { "op" : "replace", "path" : "/50/down", "value" : "開始會餓了。" },
+  { "op" : "replace", "path" : "/75/up", "value" : "有點飽了。" },
+  { "op" : "replace", "path" : "/75/down", "value" : "有點餓了。" },
+  { "op" : "replace", "path" : "/99/up", "value" : "嗯~我吃飽了。" },
+  { "op" : "replace", "path" : "/99/down", "value" : "嗯~好飽好飽。"
+  { "op" : "replace", "path" : "/100/up", "value" : "撐死我都不介意!" },
+  { "op" : "replace", "path" : "/100/down", "value" : "嗯~好飽好飽。" }
 ]

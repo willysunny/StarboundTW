@@ -1,7 +1,7 @@
-[ 
-  { "op" : "replace", "path" : "/paneLayout/labelSpeciesRadio/value", "value" : "\u7A2E\u65CF" },
-  { "op" : "replace", "path" : "/paneLayout/labelPortrait/value", "value" : "\u4EBA\u985E" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/1/data/description", "value" : "\u6b7b\u4ea1\u6642\u640d\u5931\u50cf\u7d20" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/2/data/description", "value" : "\u6b7b\u4ea1\u6642\u640d\u5931\u50cf\u7d20\u4ee5\u53ca\u6240\u6709\u9053\u5177" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/3/data/description", "value" : "\u6b7b\u4e86\u5c31\u6b7b\u4e86" }
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/labelSpeciesRadio/value", "value" : "種族" },
+  { "op" : "replace", "path" : "/paneLayout/labelPortrait/value", "value" : "人類" },
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/1/data/description", "value" : "死亡時損失像素" },
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/2/data/description", "value" : "死亡時損失像素以及所有道具" },
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/3/data/description", "value" : "死了就死了" }
 ]

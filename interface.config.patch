@@ -1,10 +1,10 @@
-[ 
-  { "op" : "replace", "path" : "/nothingThere/1", "value" : "\u9019\u88E1\u6C92\u6709\u4EC0\u9EBC\u503C\u5F97\u6CE8\u610F\u7684\u6771\u897F\u3002" },
-  { "op" : "replace", "path" : "/nothingThere/2", "value" : "\u4EC0\u9EBC\u90FD\u6C92\u6709\u3002" },
-  { "op" : "replace", "path" : "/nothingThere/3", "value" : "\u4EC0\u9EBC\u90FD\u6C92\u6709\u767C\u73FE" },
-  { "op" : "replace", "path" : "/nothingThere/4", "value" : "(\u5927\u9A5A!)\u9019\u662F...\u7B49\u7B49...\u5594\uFF0C\u7B97\u4E86\uFF0C\u6C92\u4E8B\u3002" },
-  { "op" : "replace", "path" : "/nothingThere/5", "value" : "\u6211\u7684\u5929\u963F\uFF0C\u9019\u88E1\u4EC0\u9EBC\u90FD\u6C92\u6709\u3002" },
-  { "op" : "replace", "path" : "/nothingThere/6", "value" : "\u5566\u5566\u5566~\u4EC0\u9EBC\u90FD\u6C92\u6709~\u5566\u5566\u5566~" },
-  { "op" : "replace", "path" : "/nothingThere/7", "value" : "\u4F60\u5F88\u52AA\u529B\u7684\u60F3\u8981\u770B\u51FA\u4EC0\u9EBC\u6771\u897F\u4F86\uFF0C\u4F46\u662F\u9084\u662F\u5931\u6557\u4E86\u3002" },
-  { "op" : "replace", "path" : "/nothingThere/8", "value" : "\u865B!\u7121!\u7A7A!\u6C92\u6709!" }
+﻿[ 
+  { "op" : "replace", "path" : "/nothingThere/1", "value" : "這裡沒有什麼值得注意的東西。" },
+  { "op" : "replace", "path" : "/nothingThere/2", "value" : "什麼都沒有。" },
+  { "op" : "replace", "path" : "/nothingThere/3", "value" : "什麼都沒有發現" },
+  { "op" : "replace", "path" : "/nothingThere/4", "value" : "(大驚!)這是...等等...喔，算了，沒事。" },
+  { "op" : "replace", "path" : "/nothingThere/5", "value" : "我的天阿，這裡什麼都沒有。" },
+  { "op" : "replace", "path" : "/nothingThere/6", "value" : "啦啦啦~什麼都沒有~啦啦啦~" },
+  { "op" : "replace", "path" : "/nothingThere/7", "value" : "你很努力的想要看出什麼東西來，但是還是失敗了。" },
+  { "op" : "replace", "path" : "/nothingThere/8", "value" : "虛!無!空!沒有!" }
 ]

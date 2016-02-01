@@ -1,7 +1,8 @@
-[ 
+﻿[ 
   { "op" : "replace", "path" : "/config/visTime", "value" : 20 },
-  { "op" : "replace", "path" : "/config/fadeRate", "value" : 0.2 },
-  { "op" : "replace", "path" : "/config/chatWrapLimit", "value" : 150 },
+  { "op" : "replace", "path" : "/config/fadeRate", "value" : 1.0 },
   { "op" : "replace", "path" : "/config/chatSize", "value" : 13 },
-  { "op" : "replace", "path" : "/config/chatHistoryLimit", "value" : 1000 }
+  { "op" : "replace", "path" : "/config/chatWrapLimit", "value" : 250 },
+  { "op" : "replace", "path" : "/config/chatHistoryLimit", "value" : 1200 },
+  { "op" : "replace", "path" : "/gui/upButton/position/1", "value" : 137 }
 ]
