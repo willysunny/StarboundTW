@@ -1,0 +1,4 @@
+[ 
+  { "op" : "replace", "path" : "/gui/windowtitle/title", "value" : "LED燈號製作台" },
+  { "op" : "replace", "path" : "/gui/windowtitle/subtitle", "value" : "^#FF0000;轉^#FF7F00;吧^#FFFF00;!^#00FF00;轉^#0000FF;阿^#4B0082;!^#8F00FF;七^#FF0000;彩^#FF7F00;霓^#FFFF00;虹^#00FF00;燈^#0000FF;!" }
+]
