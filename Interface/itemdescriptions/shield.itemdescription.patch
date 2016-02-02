@@ -1,4 +1,4 @@
-[ 
-  { "op" : "replace", "path" : "/healthTitleLabel/value", "value" : "\u76fe\u724c\u8840\u91cf:" },
-  { "op" : "replace", "path" : "/cooldownTitleLabel/value", "value" : "\u51b7\u537b\u6642\u9593:" }
+﻿[ 
+  { "op" : "replace", "path" : "/healthTitleLabel/value", "value" : "盾牌血量:" },
+  { "op" : "replace", "path" : "/cooldownTitleLabel/value", "value" : "冷卻時間:" }
 ]

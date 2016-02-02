@@ -1,3 +1,3 @@
-[ 
-  { "op" : "replace", "path" : "/toolLabel/value", "value" : "\u5DE5\u5177" }
+﻿[ 
+  { "op" : "replace", "path" : "/toolLabel/value", "value" : "工具" }
 ]

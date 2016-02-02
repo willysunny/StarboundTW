@@ -1,5 +1,5 @@
-
-  { "op" : "replace", "path" : "/maxDamageTitleLabel/value", "value" : "\u57fa\u672c\u6700\u5927\u50b7\u5bb3:" },
-  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "\u6BCF\u767C\u80FD\u91CF\u6D88\u8017:" },
-  { "op" : "replace", "path" : "/descriptionLabel/value", "value" : "\u5f9e\u5176\u4ed6\u602a\u7269\u8eab\u4e0a\u53d6\u5f97\u8089\u985e\u53ca\u5176\u4ed6\u8cc7\u6e90" }
+﻿
+  { "op" : "replace", "path" : "/maxDamageTitleLabel/value", "value" : "基本最大傷害:" },
+  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "每發能量消耗:" },
+  { "op" : "replace", "path" : "/descriptionLabel/value", "value" : "從其他怪物身上取得肉類及其他資源" }
 ]

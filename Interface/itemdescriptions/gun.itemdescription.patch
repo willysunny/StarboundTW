@@ -1,5 +1,5 @@
-[ 
-  { "op" : "replace", "path" : "/speedTitleLabel/value", "value" : "\u5C04\u901F:" },
-  { "op" : "replace", "path" : "/damagePerShotTitleLabel/value", "value" : "\u6BCF\u767C\u50B7\u5BB3:" },
-  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "\u6BCF\u767C\u80FD\u91CF\u6D88\u8017:" }
+﻿[ 
+  { "op" : "replace", "path" : "/speedTitleLabel/value", "value" : "射速:" },
+  { "op" : "replace", "path" : "/damagePerShotTitleLabel/value", "value" : "每發傷害:" },
+  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "每發能量消耗:" }
 ]
