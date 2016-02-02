@@ -47,7 +47,7 @@
     "statistics" : "^white;使用方法: ^orange/statistics^white;。顯示玩家的統計數據(目前只計算死亡數，未來會新增)。",
     "suicide" : "^white;使用方法: ^orange;/suicide^white;。殺死目前的角色，承受一切死亡懲罰(包括永久死亡!)。當你被卡bug的時候會很好用。",
     "naked" : "^white;使用方法: ^orange;/naked^white;。卸下所有裝備。在給角色批量替換現有裝備時使用，或者，僅僅是為了好玩。",
-    "enableSpawning" : "^white;使用方法: ^orange;/enableSpawning^white;。開啟自動生成怪物。",
-    "disableSpawning" : "^white;使用方法: ^orange;/disableSpawning^white;。關閉自動生成怪物。"
+    "enableSpawning" : "^white;使用方法: ^orange;/enableSpawning^white;。允許地圖生怪。",
+    "disableSpawning" : "^white;使用方法: ^orange;/disableSpawning^white;。禁止地圖生怪。"
   }}
 ]
