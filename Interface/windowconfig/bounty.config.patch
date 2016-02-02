@@ -1,0 +1,7 @@
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "珍藏的寶藏" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "\"從未聽說過這些\" - 前哨站商會管理員" },
+  { "op" : "replace", "path" : "/paneLayout/lblSchematics/value","value":"開放獎勵"},
+  { "op" : "replace", "path" : "/paneLayout/lblProducttitle/value","value":"獎勵內容"},
+  { "op" : "replace", "path" : "/paneLayout/turnIn/caption","value":"繳交"}
+]

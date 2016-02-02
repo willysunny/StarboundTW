@@ -1,0 +1,9 @@
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "基本合成" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "^#b9b5b2;只有你的雙手，以及你背包裡的原料^green;[C]" },
+  { "op" : "replace", "path" : "/paneLayout/lblSchematics/value","value":"物品列表"},
+  { "op" : "replace", "path" : "/paneLayout/lblProducttitle/value","value":"物品說明"},
+  { "op" : "replace", "path" : "/paneLayout/btnCraft/caption","value":"製作"},
+  { "op" : "replace", "path" : "/paneLayout/lblProduct/value","value":"能製作"},
+  { "op" : "replace", "path" : "/paneLayout/filter/hint","value":"搜尋"}
+]

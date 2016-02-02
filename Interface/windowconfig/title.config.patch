@@ -1,0 +1,4 @@
+﻿[ 
+  { "op" : "replace", "path" : "/music/day/tracks/0", "value" : "/music/title-theme-concept-old.ogg" },
+  { "op" : "replace", "path" : "/music/night/tracks/0", "value" : "/music/title-theme-concept-old.ogg" }
+]

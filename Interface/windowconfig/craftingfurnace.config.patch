@@ -1,0 +1,9 @@
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "熔爐" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "最喜歡看到物品融化的瞬間!" },
+  { "op" : "replace", "path" : "/paneLayout/lblSchematics/value","value":"藍圖"},
+  { "op" : "replace", "path" : "/paneLayout/lblProducttitle/value","value":"物品說明"},
+  { "op" : "replace", "path" : "/paneLayout/btnCraft/caption","value":"製作"},
+  { "op" : "replace", "path" : "/paneLayout/lblProduct/value","value":"能製作"},
+  { "op" : "replace", "path" : "/paneLayout/filter/hint","value":"搜尋"}
+]

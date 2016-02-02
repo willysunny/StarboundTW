@@ -1,0 +1,13 @@
+﻿[ 
+  { "op" : "replace", "path" : "/selectText", "value" : "選擇書籍" },
+  { "op" : "replace", "path" : "/messages/alreadyKnown", "value" : "書籍已經讀過!" },
+  { "op" : "replace", "path" : "/messages/learned", "value" : "內容已學習" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "星邊書籍" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "^#b9b5b2;圖書館 ^green;[L]" },
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/0/readSelected/caption","value":"閱讀"},
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/1/prevButton/caption","value":"上頁"},
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/1/prevButton/position/0","value": 10},
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/1/nextButton/caption","value":"下頁"},
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/1/nextButton/position/0","value": 126},
+  { "op" : "replace", "path" : "/paneLayout/modeStack/stack/1/backButton/caption","value":"返回"}
+]

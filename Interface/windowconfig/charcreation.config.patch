@@ -1,7 +1,7 @@
 ﻿[ 
   { "op" : "replace", "path" : "/paneLayout/labelSpeciesRadio/value", "value" : "種族" },
   { "op" : "replace", "path" : "/paneLayout/labelPortrait/value", "value" : "人類" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/1/data/description", "value" : "死亡時損失像素" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/2/data/description", "value" : "死亡時損失像素以及所有道具" },
-  { "op" : "replace", "path" : "/paneLayout/mode/buttons/3/data/description", "value" : "死了就死了" }
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/0/data/description", "value" : "死亡時損失像素" },
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/1/data/description", "value" : "死亡時損失像素以及所有道具" },
+  { "op" : "replace", "path" : "/paneLayout/mode/buttons/2/data/description", "value" : "死了就死了" }
 ]

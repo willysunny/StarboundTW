@@ -1,0 +1,12 @@
+﻿[ 
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/title", "value" : "家具中心" },
+  { "op" : "replace", "path" : "/paneLayout/windowtitle/subtitle", "value" : "將您的小窩布置的漂漂亮亮的吧!" },
+  { "op" : "replace", "path" : "/paneLayout/lblSchematics/value","value":"家具名稱"},
+  { "op" : "replace", "path" : "/paneLayout/lblProducttitle/value","value":"家具說明"},
+  { "op" : "replace", "path" : "/paneLayout/btnCraft/caption","value":"購買"},
+  { "op" : "replace", "path" : "/paneLayout/lblProduct/value","value":"能購買"},
+  { "op" : "replace", "path" : "/paneLayout/lblDeeds/value","value": "藍圖"},
+  { "op" : "replace", "path" : "/paneLayout/lblFurniture/value","value": "家具"},
+  { "op" : "replace", "path" : "/paneLayout/lblCommunity/value","value": "推薦"},
+  { "op" : "replace", "path" : "/paneLayout/filter/hint","value":"搜尋"}
+]
