@@ -1,0 +1,10 @@
+[
+  {"op" : "add", "path" : "/initialcodex/glitch/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/human/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/avian/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/apex/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/floran/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/hylotl/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/novakid/0", "value" : "aboutWScht"},
+  {"op" : "add", "path" : "/initialcodex/penguin/0", "value" : "aboutWScht"}
+]
