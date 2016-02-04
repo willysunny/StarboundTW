@@ -1,0 +1,7 @@
+[
+  { "op" : "replace", "path" : "/unlockTechText", "value" : "\n\n^green;使用技能驅動解鎖此技能。"},
+  { "op" : "replace", "path" : "/guiConfig/windowtitle/subtitle", "value" : "飛船AI"},
+  { "op" : "replace", "path" : "/guiConfig/aiTextScrollArea/horizontalScroll", "value": true},
+  { "op" : "replace", "path" : "/guiConfig/mainStack/stack/0/aiCommandTabs/tabs/0/tabTitle", "value" : "指令" },
+  { "op" : "replace", "path" : "/guiConfig/mainStack/stack/0/aiCommandTabs/tabs/0/tabTitle", "value" : "指令" }
+]
