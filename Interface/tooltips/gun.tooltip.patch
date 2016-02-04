@@ -1,0 +1,6 @@
+[
+  { "op" : "replace", "path" : "/speedTitleLabel/value", "value" : "射擊速度:"},
+  { "op" : "replace", "path" : "/damagePerShotTitleLabel/value", "value" : "射擊傷害:"},
+  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "每發能量消耗:"}
+  
+]

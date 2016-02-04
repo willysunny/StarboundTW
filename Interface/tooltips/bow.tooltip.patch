@@ -1,0 +1,5 @@
+[
+  { "op" : "replace", "path" : "/maxDamageTitleLabel/value", "value" : "基礎最大傷害:"},
+  { "op" : "replace", "path" : "/energyPerShotTitleLabel/value", "value" : "每發消耗能量:"},
+  { "op" : "replace", "path" : "/descriptionLabel/value", "value" : "從敵人身上獲取怪物肉以及其他好東西。"}
+]
