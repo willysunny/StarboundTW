@@ -1,0 +1,221 @@
+{
+  "commandName" : "enableTeleporter",
+  "onlyOnce" : true,
+  "icon" : "teleporter.png",
+  "actions" : [
+    { 
+      "action" : "DisableCommand",
+      "command" : "enableTeleporter"
+    },
+    { 
+      "action" : "upgradeShip",
+      "shipParameters" : { 
+      "capabilities" : [ "teleport" ] 
+      }
+    },
+    { 
+      "action" : "StartQuest",
+      "quest" : "tutorial1.gearup"
+    },
+    { 
+      "action" : "PlaySound",
+      "sound" : "/sfx/interface/ship_confirm1.ogg",
+      "loops" : 0
+    }
+  ],
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can enable the short range teleportation system to get you down to the planet surface.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^green;The teleporter is enabled! ^#aee1ee;Go and find the materials we need to fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Should I enable the ship's short range teleporter? It's like flying! It will get you down to the planet surface.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^green;The teleporter is enabled! ^#aee1ee;Praise Kluex! Go forth and gather the materials required to fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The short range teleporter will take you to the planet's surface. Be careful down there hehehe.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^green;The teleporter ^#aee1ee;is enabled! Go! Spread your wings my little birdy, find us the things we need to fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's short range teleporter will magically transport you to the planets surface.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have completed the ritual required to ^green;enable the short range teleporter. ^#aee1ee;Go and gather ingredients so I may begin the spell that will fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can turn on the ship's short range teleport, it'll take you down to the planet below. Be careful down there!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I did it! ^green;Now we have access to the planet ^#aee1ee;we can find those materials we need to fix the ship's thrusters!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can turn on the ship's short range teleport, it'll take you down to the planet below. Be careful down there!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I did it! ^green;Now we have access to the planet ^#aee1ee;we can find those materials we need to fix the ship's thrusters!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can turn on the ship's short range teleport, it'll take you down to the planet below. Be careful down there!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I did it! ^green;Now we have access to the planet ^#aee1ee;we can find those materials we need to fix the ship's thrusters!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can enable the ship's short range teleport to take you to the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Success! ^green;Teleporter enabled! ^#aee1ee;Remember. Wheresoever you go, go with all your heart! Obtain for me the materials required to fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

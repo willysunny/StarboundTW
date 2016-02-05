@@ -1,0 +1,219 @@
+{
+  "commandName" : "giveWiretool",
+  "onlyOnce" : true,
+  "icon" : "wiretool.png",
+  "actions" : [
+     { 
+      "action" : "GivePlayerItems",
+      "items" : [ "wiretool", 1],
+      "essentialItem" : "wiretool"
+    },
+     { 
+      "action" : "GiveBluePrint",
+      "blueprintName" : "wiringstation"
+    },    
+    { 
+      "action" : "PlayCinematic",
+      "cinematicConfig" : "/cinematics/wiretool.cinematic"
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "giveWiretool"
+    }
+  ],
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Enable Wire Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Wire Mode allows your Matter Manipulator to wire together various objects. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Wire Mode. ^green;Wire Mode allows your Matter Manipulator to wire together various objects.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

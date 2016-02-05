@@ -1,0 +1,85 @@
+{
+  "missionName" : "mission3",
+  "icon" : "floranmission1icon.png",
+  "missionWorld" : "floranmission1",
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Mysterious Party",
+      "repeatButtonText" : "Revisit Mysterious Party",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I've been given co-ordinates to a party. Maybe it's worth investigating.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

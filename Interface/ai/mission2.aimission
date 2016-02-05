@@ -1,0 +1,85 @@
+{
+  "missionName" : "mission2",
+  "icon" : "dreadwingicon.png",
+  "missionWorld" : "penguinmission1",
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Rechallenge Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Repeat Dreadwing",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The penguin on the outpost wants me to take down the mighty pirate Dreadwing.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "commandName" : "upgradeShip2",
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "PlayCinematic",
+      "itemsRequired" : [ ["corefragmentore", 20] ],
+      "moneyRequired" : 0,
+      "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 2
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip2"
+    }
+  ],
+  
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "yell",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Repair Ship's Thrusters",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

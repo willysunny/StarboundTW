@@ -1,0 +1,217 @@
+{
+  "commandName" : "upgradeShip3",
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "PlayCinematic",
+      "itemsRequired" : [ ["supermatter", 20] ],
+      "moneyRequired" : 0,
+      "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 3
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip3"
+    }
+  ],
+  
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green;I  can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.", 
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "yell",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Repair Ship's FTL drive",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Our FTL drive is now up and running. ^green;We can now jump to entirely new star systems!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

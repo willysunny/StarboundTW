@@ -1,0 +1,215 @@
+{
+  "commandName" : "givePainttool",
+  "onlyOnce" : true,
+  "icon" : "painttool.png",
+  "actions" : [
+     { 
+      "action" : "GivePlayerItems",
+      "items" : [ "painttool", 1],
+      "essentialItem" : "painttool"
+    },       
+    { 
+      "action" : "PlayCinematic",
+      "cinematicConfig" : "/cinematics/painttool.cinematic"
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "givePainttool"
+    }
+  ],
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Enable Paint Mode",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Paint Mode allows you to colour many blocks different colours with your Matter Manipulator. I can enable it for you.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I have enabled Paint Mode. ^green;Paint Mode enables your Matter Manipulator to colour many different blocks.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

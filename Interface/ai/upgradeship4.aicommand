@@ -1,0 +1,221 @@
+{
+  "commandName" : "upgradeShip4",
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "PlayCinematic",
+      "itemsRequired" : [ ["upgrademodule", 2] ],
+      "moneyRequired" : 0,
+      "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 4
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip4"
+    },
+    { 
+      "action" : "showTech",
+      "techName" : [ "rocketjump", "morphballTech" ]  
+    }
+  ],
+  
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "yell",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

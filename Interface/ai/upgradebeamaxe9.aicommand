@@ -1,0 +1,48 @@
+{
+  "commandName" : "upgradeBeamaxe9",
+  "onlyOnce" : true,
+  "icon" : "beamaxe.png",
+  "actions" : [
+     { 
+      "action" : "UpdatePlayerEssentialItem",
+      "itemsRequired" : [ ["manipulatormodule", 5] ],
+      "parameters" : {
+        "blockRadius" : 5,
+        "minBeamWidth" : 8,
+        "maxBeamWidth" : 10
+      },
+      "essentialItem" : "beamaxe"
+    },
+    {
+      "action" : "DisableCommand",
+      "command" : "upgradeBeamaxe9"
+    }
+  ],
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Upgrade M. M. - Size III",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;With ^orange;5 manipulator modules^white;, I can upgrade your matter manipulator to ^green;increase its mining area^white;.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Success! Your matter manipulator has been upgraded with ^green;increase its mining area.^green;",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Failure. We'll need ^orange;5 manipulator modules^white; to complete this upgrade.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

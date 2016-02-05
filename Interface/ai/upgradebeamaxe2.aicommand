@@ -1,0 +1,50 @@
+{
+  "commandName" : "upgradeBeamaxe2",
+  "onlyOnce" : true,
+  "icon" : "beamaxe.png",
+  "actions" : [
+     { 
+      "action" : "UpdatePlayerEssentialItem",
+      "itemsRequired" : [ ["manipulatormodule", 2] ],
+      "parameters" : {
+        "canCollectLiquid" : true
+      },
+      "essentialItem" : "beamaxe"
+    },
+    {
+      "action" : "DisableCommand",
+      "command" : "upgradeBeamaxe2"
+    },
+    {
+      "action" : "EnableCommand",
+      "command" : "upgradeBeamaxe3"
+    }
+  ],
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Upgrade M. M. - Liquid Collection",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;With ^orange;2 manipulator modules^white;,  I can upgrade your matter manipulator to ^green;allow the collection of liquids^white;.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Success! Your matter manipulator has been upgraded to ^green;allow the collection of liquids.^green;",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Failure. We'll need ^orange;2 manipulator modules ^white;to complete this upgrade.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

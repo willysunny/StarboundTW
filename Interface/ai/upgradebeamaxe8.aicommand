@@ -1,0 +1,52 @@
+{
+  "commandName" : "upgradeBeamaxe8",
+  "onlyOnce" : true,
+  "icon" : "beamaxe.png",
+  "actions" : [
+     { 
+      "action" : "UpdatePlayerEssentialItem",
+      "itemsRequired" : [ ["manipulatormodule", 4] ],
+      "parameters" : {
+        "tileDamage" : 5,
+        "minBeamJitter" : 0.3,
+        "maxBeamJitter" : 0.4
+      },
+      "essentialItem" : "beamaxe"
+    },
+    {
+      "action" : "DisableCommand",
+      "command" : "upgradeBeamaxe8"
+    },
+    {
+      "action" : "EnableCommand",
+      "command" : "upgradeBeamaxe9"
+    }
+  ],
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Upgrade M. M. - Power V",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;With ^orange;4 manipulator modules^white;, I can upgrade your matter manipulator to ^green;greatly increase its mining power^white;.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Success! Your matter manipulator has been upgraded with ^green;greatly increased mining power.^green;",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Failure. We'll need ^orange;4 manipulator modules^white; to complete this upgrade.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

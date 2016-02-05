@@ -1,0 +1,220 @@
+{
+  "commandName" : "upgradeShip1",
+  "icon" : "ai.png",
+  "actions" : [
+    { 
+      "action" : "PlaySound",
+      "sound" : "/sfx/interface/ship_powerup.ogg",
+      "loops" : 0
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 1
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip1"
+    },
+    { 
+      "action" : "showTech",
+      "techName" : [ "doublejumpTech", "dashTech", "bounceTech" ]  
+    }
+  ],
+
+  "speciesText" : {
+    "apex" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Thank you! ^orange;^orange;I am S.A.I.L.^#aee1ee;^#aee1ee; I have enabled the ship's backup power. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "avian" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Praise Kluex! ^orange;I am S.A.I.L.^#aee1ee; Backup power has been enabled. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "floran" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  HELLO!!!! Hahaha, ^orange;I am S.A.I.L.^#aee1ee; I have enabled the ship's backup power. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "glitch" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Greetings my liege! S.A.I.L. at your service! I have enabled the ship's backup power. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "human" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Hello! Thanks for that! ^orange;I am S.A.I.L.^#aee1ee; and I'll be helping you out. I have restored the backup power for you! The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "novakid" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Hello! Thanks for that! ^orange;I am S.A.I.L.^#aee1ee; and I'll be helping you out. I have restored the backup power for you! The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "penguin" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Hello! Thanks for that! ^orange;I am S.A.I.L.^#aee1ee; and I'll be helping you out. I have restored the backup power for you! The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    },
+    "hylotl" : {
+      "buttonText" : "Reboot ship AI",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
+          "speedModifier" : 0.5
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Boot Initialised, new superuser acquired......  Ahhh so! ^orange;I am S.A.I.L.^#aee1ee; I have enabled the backup power. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}
